@@ -264,7 +264,7 @@ describe('Transaction', function() {
   // TODO: Migrate this into a test for inputs
 
   var fromAddress = 'mszYqVnqKoQx4jcTdJXxwKAissE3Jbrrc1';
-  var witnessFromAddress = 'tb1q3rvex84884sw4al9vu00cp2jhyffz8e2n2k4wp';
+  var witnessFromAddress = 'trdd1q3rvex84884sw4al9vu00cp2jhyffz8e2jkm8g7';
   var wrappedWitnessFromAddress = '2N2fk5hPbAPaMUs5No2kwy6xLdFL3CjUXMy';
   var simpleUtxoWith100000Satoshis = {
     address: fromAddress,
